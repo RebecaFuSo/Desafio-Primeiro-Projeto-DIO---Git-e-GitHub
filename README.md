@@ -1,4 +1,4 @@
-# Desafio-Primeiro-Projeto-DIO---Git-e-GitHub
+# Desafio Primeiro Projeto DIO - Git e GitHub
 Passo a passo de como acessar diretórios, pastas e arquivos no Git Bash sem utilizar o Git Bash Here
 - Abra o Git Bash
 - Escreva pwd para saber em qual diretório se encontra. Provavelmente ele iniciará o Git Bash no User do computador;
